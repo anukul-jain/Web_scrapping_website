@@ -1,0 +1,30 @@
+{
+  "name": "saarthi",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "page1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anukul Jain",
+  "license": "ISC",
+  "engines": {
+    "node": "14.15.4"
+  },
+  "dependencies": {
+    "alert": "^5.0.10",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "database-js": "^3.0.10",
+    "express": "^4.17.1",
+    "express-flash": "0.0.2",
+    "express-session": "^1.17.1",
+    "html-to-text": "^6.0.0",
+    "html2plaintext": "^2.1.2",
+    "module": "^1.2.5",
+    "mogodb": "0.0.1-security",
+    "mongoose": "^5.11.14",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  }
+}
